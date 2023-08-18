@@ -1,4 +1,4 @@
-package PolymorphismEx;
+package Polymorphism;
 
 class Baseclass {
     public void method() { // Base class method
