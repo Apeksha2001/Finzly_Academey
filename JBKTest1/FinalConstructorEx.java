@@ -16,6 +16,7 @@ class Antivirus {
     }
 
     public void activateAntivirus() {
+
         if (productKey != null && productKey.equals("1234567")) {                                           //HERE 1234567 IS ValidKeyValue
             System.out.println("Antivirus activated ...");
         } else {
